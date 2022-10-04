@@ -5,4 +5,4 @@ streamlit==1.10.0
 protobuf~=3.19.0
 pymongo==4.1.1
 dnspython==2.2.1
-[-e] <github/StanPHC/briefcatch_test/blob/main/ruleParser.py>
+<github/StanPHC/briefcatch_test/blob/main/ruleParser.py>
