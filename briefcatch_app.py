@@ -4,7 +4,7 @@ import os
 
 from io import BytesIO
 import base64
-from pyxlsb import open_workbook as open_xlsb
+# from pyxlsb import open_workbook as open_xlsb
 import zipfile
 from datetime import datetime
 
